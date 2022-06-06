@@ -1,0 +1,24 @@
+
+#Work in queue
+    Categoty Endpoint 
+    BestSellers Endpoint 
+    Category wise product with different section 
+
+
+#Work in progress
+
+    Uploading S3 Bucket 
+    Adding Stripe payment with DB
+
+
+#Completed task 
+    
+    login with jwt
+    SignIn/ Registration 
+    Rolebased SignIn
+
+    Add to cart functionality
+    Add new Comment on any specific product with authintication 
+
+    Add to new product on DB 
+    Add New Admin
